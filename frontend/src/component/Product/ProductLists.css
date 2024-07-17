@@ -1,0 +1,12 @@
+.ProductList_container {
+  margin-top: 4vmax;
+  padding-top: 1vmax;
+  display: flex;
+  width: 80vw;
+  flex-wrap: wrap;
+  justify-content: center;
+  max-width: 100%;
+  gap: 4vmax;
+  transition: 2s linear 1s;
+  min-height: 70vh;
+  }

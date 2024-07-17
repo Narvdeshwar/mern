@@ -1,0 +1,10 @@
+.noproduct{
+    height: 70vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+.noproduct h3{
+    font: 600 2vmax "Roboto";
+}

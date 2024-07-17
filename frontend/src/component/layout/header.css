@@ -1,0 +1,73 @@
+.header-middle-content Button:hover{
+    color: red;
+    
+}
+.speedDial {
+    position: fixed;
+    right: 10vmax;
+    top: 0.9vmax;
+  }
+  
+  .speedDialIcon {
+    width: 56px;
+    height: 56px;
+    border-radius: 100%;
+  }
+  .searchBar{
+    margin-left: 1.2vmax;
+    width: 40vmax;
+    position: relative;
+    top: 0%;
+    left: 0;
+  }
+  .searchBar> input[type="text"] {
+    width: 90%;
+    background-color: white;
+    padding: 0.8vmax;
+    border: none;
+    color: rgba(0, 0, 0, 0.637);
+    outline: none;
+    border-radius: 0%;
+    font-size: 2vmax;
+    box-sizing: border-box;
+    height: 5%;
+  }
+  .search-logon{
+    position: absolute;
+    transform: translateX(-2vmax);
+  }
+  .links{
+    display: flex;
+    text-decoration: none;
+    padding: 0.8vmax;
+    border: none;
+    color: rgba(0, 0, 0, 0.637);
+    outline: none;
+    border-radius: 0%;
+    font-size: 2vmax;
+    box-sizing: border-box;
+    height: 5%;
+  }
+  #login-image > img {
+    width: 1.8vmax;
+    border-radius: 100%;
+    position: absolute;
+    right: 8vmax;
+    top: 1.2vmax;
+  }
+  #login-image > p {
+    width: 3vmax;
+    border-radius: 100%;
+    position: absolute;
+    right: 4.8vmax;
+    top: 0.5vmax;
+    font-size: 2vmax;
+  }
+  #cart-image > svg{
+    width: 1.8vmax;
+    border-radius: 100%;
+    position: absolute;
+    right: 8vmax;
+    top: 1.2vmax;
+  }
+  

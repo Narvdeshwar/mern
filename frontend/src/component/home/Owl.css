@@ -1,0 +1,7 @@
+.Owl_Carousel{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin-left: 2vmax;
+    margin-bottom: 2vmax;
+}

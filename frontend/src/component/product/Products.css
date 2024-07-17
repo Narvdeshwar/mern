@@ -1,0 +1,26 @@
+.productsHeading {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin: 2vmax auto;
+    width: 15vw;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.171);
+    padding: 2vmax;
+    color: rgba(0, 0, 0, 0.678);
+    font: 500 1.5vmax "Roboto";
+    text-align: center;
+}
+
+.products {
+    margin-top: 4vmax;
+    padding-top: 1vmax;
+    display: flex;
+    width: 100vw;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+    max-width: 100%;
+    gap: 4vmax;
+    transition: 2s linear 1s;
+    min-height: 70vh;
+}
